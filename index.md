@@ -7,7 +7,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-# [about me](./about)   # [portfolio](./portfolio)    # [contact me](./contact)
+# [about me](./about)     [portfolio](./portfolio)      [contact me](./contact)
 
 There should be whitespace between paragraphs.
 
