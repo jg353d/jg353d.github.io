@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+| **[about me](./about).     |  [portfolio](./portfolio).    | [contact me](./contact).  |
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # [about me](./about).
