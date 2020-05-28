@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-| **[about me](./about).**     |  # [portfolio](./portfolio).    | [contact me](./contact).  |
+| **[about me](./about)**     |  **[portfolio](./portfolio)**    | **[contact me](./contact)**  |
 
 
 
