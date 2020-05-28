@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./about).
+# [about me](./about).
+
+# [contact me](./contact).
 
 There should be whitespace between paragraphs.
 
